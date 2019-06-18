@@ -1,0 +1,52 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    background-color: gold;
+}
+
+#content {
+    width: 75%;
+    margin: 0 auto; 
+}
+#logo{
+    padding: 10%;
+}
+
+#logo img{
+    height: 350px;
+    border-radius: 50%;
+
+}x
+
+.card{
+    width: 30%;
+    border: 1px solid goldenrod;
+    background-color: rgb(245, 188, 45);
+}
+
+.card div {
+    padding: 25px;
+}
+
+#skills{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card img{
+    width: 100%;
+}
+
+hr{
+    margin: 50px;
+}
+
+footer{
+    margin:20px;
+}
+
+footer a{
+    margin: 15px;
+}
+
