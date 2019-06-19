@@ -2,7 +2,7 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     margin: 0;
-    background-color: gold;
+    background-color: whitesmoke;
 }
 
 #content {
@@ -21,8 +21,8 @@ body{
 
 .card{
     width: 30%;
-    border: 1px solid goldenrod;
-    background-color: rgb(245, 188, 45);
+    border: 1px solid white;
+    background-color: rgb(160, 157, 148);
 }
 
 .card div {
